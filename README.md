@@ -64,7 +64,7 @@ IPOTrust decentralizes the traditional IPO allotment process using smart contrac
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/yasharya007/IPOTrust.git
+   git clone https://github.com/shashirathee/ipo_trust.git
    cd IPOTrust
    ```
 
@@ -133,8 +133,8 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-**Yash Arya**  
-[LinkedIn](https://linkedin.com/in/yasharya007) • [GitHub](https://github.com/yasharya007)
+**Shashi**  
+[LinkedIn](https://www.linkedin.com/in/shashi-rathee-282074217/) • [GitHub](https://github.com/shashirathee)
 
 ---
 
